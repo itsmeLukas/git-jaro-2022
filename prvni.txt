@@ -5,3 +5,6 @@ pridana nova funkce pro novou vetev
 {
 foreach()
 }
+zde je druha funkce {
+a ta dela neco jineho
+}
