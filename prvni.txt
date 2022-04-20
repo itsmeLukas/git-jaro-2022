@@ -9,3 +9,4 @@ zde je druha funkce {
 a ta dela neco jineho
 oprava chyby
 }
+pridani komentare "Toto je komentar pro druhouvetev"
