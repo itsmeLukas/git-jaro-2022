@@ -10,3 +10,4 @@ a ta dela neco jineho
 oprava chyby
 }
 pridani komentare "Toto je komentar pro druhouvetev"
+a toto je treti funkce!!!
