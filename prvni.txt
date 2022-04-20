@@ -11,4 +11,8 @@ oprava chyby
 }
 pridani komentare "Toto je komentar pro druhouvetev"
 a toto je treti funkce!!!
+<<<<<<< Updated upstream
 blba oprava treti funkce!!!!!!!!!!!!!!
+=======
+zmena pro GitHub Desktop!!
+>>>>>>> Stashed changes
