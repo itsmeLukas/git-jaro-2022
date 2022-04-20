@@ -1,3 +1,7 @@
 fdhdhdhhdg
 pridani druheho radku
 pridani tretiho radku
+pridana nova funkce pro novou vetev
+{
+foreach()
+}
