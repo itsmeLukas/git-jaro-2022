@@ -15,4 +15,5 @@ a toto je treti funkce!!!
 blba oprava treti funkce!!!!!!!!!!!!!!
 =======
 zmena pro GitHub Desktop!!
+upravim posledni radek kvuli konfliktu!!
 >>>>>>> Stashed changes
