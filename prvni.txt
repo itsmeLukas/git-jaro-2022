@@ -7,4 +7,5 @@ foreach()
 }
 zde je druha funkce {
 a ta dela neco jineho
+oprava chyby
 }
